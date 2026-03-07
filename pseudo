@@ -1,0 +1,24 @@
+<!-- 1) Create a nav bar with the logo, list of products, blog, FAQs, Our Story/About Us and account+basket (possible icons only)
+    - Logo to the left, main nav links centre, account and basket on right.
+  -->
+<!-- 2) Create a hero section which displays the brand name, a testimonial/rating, and a cta (free sample pack etc), + picture
+    - picture/pictures on left with big brand name, rating, and cta aligned centrally in right-sided box.
+  -->
+<!-- 3) Create a timeline of the process- growing to drinking
+    - From planting seeds to making the coffee at home, make a timeline following the process.
+  -->
+<!-- 4) Section showcasing main products (cards)
+    - Take three main products "Our top beans"- vietnam (robusta), brazil (arabica), phillipines (liberica)
+  -->
+<!-- 5) Article about the company- why founded and what principles it has etc. message from owner-->
+<!-- 6) Testimonial carousel (+ pagination?)-->
+<!-- 7) Extra articles- further info + additional readings (also cards)-->
+<!-- 8) Footer with copyright, privacy policy, terms and conditions-->
+
+<!-- 9) Create the media queries for the entire page
+        - Small laptops - 94.5em 1512px
+        - Landscape tablets - 75em 1200px
+        - Tablets - 59em 944px
+        - Landscape mobiles - 44em 704px
+        - Mobiles - 32em 512px
+-->

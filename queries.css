@@ -1,0 +1,545 @@
+/*************** Small laptops - 94.5em / 1512px ****************/
+@media (max-width: 94.5em) {
+  .hero-section {
+    max-width: 99%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero-title {
+    max-width: 80%;
+    margin-bottom: 5%;
+  }
+
+  .title-primary {
+    font-size: 4.4rem;
+  }
+
+  .title-secondary {
+    font-size: 3.2rem;
+    max-width: 80%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+  }
+
+  .hero-testimonial {
+    margin-bottom: 5%;
+  }
+
+  .rating-stars {
+    margin-bottom: 5%;
+  }
+}
+
+/*************** Landscape tablets - 72em / 1152px ****************/
+
+@media (max-width: 72em) {
+  .hero-section {
+    max-width: 99%;
+  }
+
+  .hero-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .hero-title {
+    max-width: 90%;
+    margin-bottom: 8%;
+  }
+
+  .title-primary {
+    font-size: 4.4rem;
+  }
+
+  .title-secondary {
+    font-size: 3.2rem;
+    max-width: 90%;
+    margin-bottom: 8%;
+    margin-top: 5%;
+  }
+
+  .hero-testimonial {
+    max-width: 90%;
+    margin-bottom: 8%;
+  }
+
+  .rating-stars {
+    margin-bottom: 8%;
+  }
+
+  .timeline {
+    padding: 6.4rem;
+  }
+
+  .timeline-grid {
+    column-gap: 4.8rem;
+  }
+
+  .timeline-img {
+    height: auto;
+    width: 20rem;
+  }
+
+  .timeline-number {
+    font-size: 4.8rem;
+  }
+
+  .timeline-text-header {
+    font-size: 2rem;
+  }
+
+  .timeline-text {
+    font-size: 1.5rem;
+  }
+
+  .product-text-box {
+    width: 90%;
+  }
+
+  .product-cards {
+    column-gap: 3rem;
+  }
+
+  .product-text-roast {
+    padding: 0.5rem 2rem;
+  }
+}
+
+/*************** Portrait tablets - 62.5em / 1000px ****************/
+
+@media (max-width: 62.5em) {
+  .logo {
+    font-size: 3rem;
+  }
+
+  .main-nav-list {
+    gap: 2.4rem;
+  }
+
+  .nav-list-btn {
+    font-size: 1.8rem;
+  }
+
+  .nav-icon {
+    height: 2.5rem;
+    width: 2.5rem;
+  }
+
+  .hero-section {
+    max-width: 99%;
+    max-height: 50rem;
+  }
+
+  .hero-img-container {
+    max-width: 80%;
+    max-height: 50rem;
+  }
+
+  .hero-title {
+    max-width: 90%;
+    margin-bottom: 8%;
+  }
+
+  .title-primary {
+    font-size: 3.2rem;
+  }
+
+  .title-secondary {
+    font-size: 2.2rem;
+    max-width: 90%;
+    margin-bottom: 8%;
+    margin-top: 5%;
+  }
+
+  .hero-testimonial {
+    font-size: 1.8rem;
+    max-width: 90%;
+    margin-bottom: 8%;
+  }
+
+  .rating-stars {
+    margin-bottom: 8%;
+  }
+
+  .hero-btn {
+    font-size: 1.5rem;
+  }
+
+  .timeline-number {
+    font-size: 4.8rem;
+  }
+
+  .timeline-text-header {
+    font-size: 2rem;
+  }
+
+  .timeline-text {
+    font-size: 1.3rem;
+  }
+
+  .timeline-img-box {
+    align-items: end;
+  }
+
+  .testimonial-section {
+    width: 70%;
+  }
+
+  .testimonial-img {
+    height: 22rem;
+  }
+
+  .product-cards-container {
+    width: 90%;
+  }
+
+  .product-cards {
+    column-gap: 2.4rem;
+  }
+
+  .philippines-icon {
+    transform: translate(-55px, -2px);
+  }
+
+  .footer-section {
+    padding-top: 6.4rem;
+  }
+
+  .footer-container {
+    max-width: 90%;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 3.2rem;
+  }
+}
+
+/*************** Portrait phones - 49em / 784px ****************/
+
+@media (max-width: 49em) {
+  .inner {
+    height: 4.4rem;
+  }
+
+  .logo {
+    font-size: 2.4rem;
+    display: flex;
+    align-items: center;
+    margin: 0 0 0 2rem;
+  }
+
+  .main-nav-list {
+    gap: 1.8rem;
+  }
+
+  .nav-list-btn {
+    font-size: 1.4rem;
+  }
+  .hero-section {
+    max-width: 99%;
+    max-height: 40rem;
+  }
+
+  .hero-img-container {
+    max-width: 90%;
+    max-height: 40rem;
+  }
+
+  .hero-title {
+    max-width: 90%;
+    margin-bottom: 8%;
+  }
+
+  .title-primary {
+    font-size: 2.4rem;
+  }
+
+  .title-secondary {
+    font-size: 1.8rem;
+    max-width: 90%;
+    margin-bottom: 8%;
+    margin-top: 5%;
+  }
+
+  .hero-testimonial {
+    font-size: 1.5rem;
+    max-width: 90%;
+    margin-bottom: 8%;
+  }
+
+  .rating-stars {
+    margin-bottom: 8%;
+  }
+
+  .hero-btn {
+    font-size: 1.5rem;
+  }
+
+  .timeline-grid {
+    column-gap: 3.2rem;
+    row-gap: 3.2rem;
+  }
+
+  .timeline-img {
+    height: auto;
+    width: 20rem;
+  }
+
+  .product-cards-title {
+    font-size: 3.2rem;
+    padding: 2.4rem 0;
+  }
+
+  .product-text-box {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+  }
+
+  .product-text-name {
+    font-size: 1.8rem;
+  }
+
+  .product-text-blend {
+    font-size: 1.2rem;
+  }
+
+  .product-text-roast {
+    font-size: 1.5rem;
+  }
+
+  .slider-container {
+    display: none;
+  }
+
+  .card-btn {
+    margin-top: 2.4rem;
+  }
+
+  .about-us {
+    margin-top: 6.4rem;
+  }
+
+  .testimonial-section {
+    margin: 9.6rem auto;
+  }
+
+  .footer-container {
+    margin: 0 auto;
+  }
+
+  .logo-col {
+    gap: 1.8rem;
+  }
+
+  .social-links {
+    width: 50%;
+    gap: 2.4rem;
+    margin-left: 2rem;
+  }
+
+  .social-icon {
+    height: 2.5rem;
+    width: 2.5rem;
+  }
+
+  .copyright {
+    font-size: 1rem;
+    margin-left: 2rem;
+  }
+
+  .year {
+    font-size: 1rem;
+  }
+
+  .footer-header {
+    font-size: 1.5rem;
+    margin-bottom: 0;
+  }
+
+  .footer-address p {
+    font-size: 1.2rem;
+  }
+  .footer-address a {
+    font-size: 1.2rem;
+  }
+
+  .about-col a {
+    font-size: 1.2rem;
+  }
+  .faq-col a {
+    font-size: 1.2rem;
+  }
+}
+
+/*************** Phone--2 - 41em / 656px ****************/
+@media (max-width: 41em) {
+  .logo {
+    font-size: 2rem;
+  }
+
+  .main-nav-list {
+    gap: 1rem;
+  }
+
+  .nav-list-btn {
+    font-size: 1.2rem;
+  }
+
+  .hero-section {
+    max-width: 60%;
+    grid-template-columns: 1fr;
+  }
+
+  .hero-img-container {
+    max-width: 60%;
+    max-height: 30rem;
+    display: none;
+  }
+
+  .hero-content-container {
+    max-width: 100%;
+    max-height: 30rem;
+  }
+
+  .title-primary {
+    font-size: 2rem;
+  }
+
+  .title-secondary {
+    font-size: 1.5rem;
+  }
+
+  .hero-testimonial {
+    font-size: 1.2rem;
+  }
+
+  .rating-stars {
+    margin-bottom: 8%;
+    font-size: 1.2rem;
+  }
+
+  .hero-btn {
+    font-size: 1.2rem;
+    padding: 0.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .timeline {
+    padding: 4.4rem;
+  }
+
+  .timeline-grid {
+    grid-template-columns: 1fr;
+    row-gap: 2.4rem;
+  }
+
+  .timeline-img-hidden {
+    display: none;
+  }
+
+  .product-cards {
+    grid-template-columns: 1fr;
+    row-gap: 2.4rem;
+  }
+
+  .product-item {
+    max-width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .see-more-btn:link,
+  .see-more-btn:visited {
+    font-size: 2rem;
+  }
+
+  .about-us-textbox {
+    max-width: 100%;
+  }
+
+  .testimonial-img {
+    display: none;
+  }
+
+  .testimonial-text {
+    margin: 2rem auto;
+  }
+
+  .pagination {
+    left: 40%;
+  }
+
+  .footer-container {
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 4.6rem;
+  }
+
+  .logo-footer {
+    margin-left: 0;
+  }
+
+  .social-links {
+    margin-left: 0;
+  }
+
+  .copyright {
+    margin-left: 0;
+  }
+}
+
+/*************** MOBILE NAV ****************/
+/* 
+@media (max-width: 41em) {
+  .btn-mobile-nav {
+    display: block;
+  }
+
+  .main-nav {
+    background-color: rgba(255, 255, 255, 0.95);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    transform: translateX(100%);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.5s;
+
+    /* Hide navigation */
+/* 
+    opacity: 0; /* Hides visually*/
+/*    pointer-events: none; /* Prevents mouse/keyboard accessing it */
+/*   visibility: hidden; /* Prevents screen-readers from noticing it */
+/* }
+
+  .nav-open .main-nav {
+    opacity: 1;
+    pointer-events: auto;
+    visibility: visible;
+    transform: translate(0);
+  }
+
+  .nav-open .icon-mobile-nav[name="close-circle-outline"] {
+    display: block;
+  }
+
+  .nav-open .icon-mobile-nav[name="menu-outline"] {
+    display: none;
+  }
+
+  .nav-list-btn:link,
+  .nav-list-btn:visited {
+    font-size: 3.2rem;
+  }
+
+  .main-nav-list {
+    flex-direction: column;
+    gap: 3.2rem;
+  }
+}  */
