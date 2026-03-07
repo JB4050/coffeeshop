@@ -539,7 +539,7 @@ body {
   position: relative;
   background-image:
     linear-gradient(rgba(119, 119, 119, 0.575), rgba(119, 119, 119, 0.589)),
-    url(img/redbrick\ wall.jpg);
+    url(img/redbrick-wall.jpg);
   background-size: cover;
 }
 
@@ -788,3 +788,4 @@ body {
 .footer-link:active {
   color: rgba(67, 45, 42, 0.8);
 }
+
